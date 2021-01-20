@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<center><b><h2>DATA RAW</b></center>
+{% block content %}
+{% for header in headers %}
+      {{ header }},
+      {% endfor %}
+<br>
+      {% for row in data %}
+        {% for i in row.values%}
+            {{ i }},
+        {% endfor %}
+        <br>
+      {% endfor %}
+{% endblock %}
+</body>

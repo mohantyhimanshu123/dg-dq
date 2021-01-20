@@ -1,0 +1,45 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<center><b><h2>DATA SET</b></center>
+{% block content %}
+<table id="table" class="display" style="width: 100%;">
+  <thead>
+    <tr>
+      {% for header in headers %}
+      <th>{{ header }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+      {% for row in data %}
+      <tr>
+        {% for i in row.values%}
+            <td>{{ i }}</td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
+</body>

@@ -1,0 +1,89 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+    .lowerclass{
+  background-color: #0e153a ;
+  width: 100%;
+  padding: 20px;
+  border: 2px white;
+  margin: 0;
+	}
+    .tooltipper {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltipper .tooltippertext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltipper .tooltippertext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.tooltipper:hover .tooltippertext {
+  visibility: visible;
+}
+</style>
+	<meta charset="utf-8">
+	<title>DG-DQ</title>
+	<meta name="description" content="Drunken Parrot UI Kit is a Twitter Bootstrap Framework design and Theme."/>
+	<meta name="viewport" content="width=1000, initial-scale=1.0, maximum-scale=1.0">
+
+	<!-- Loading Bootstrap -->
+	<link href="{% static 'bootstrap/css/bootstrap.css' %}" rel="stylesheet">
+
+	<!-- Loading Font Awesome Icons -->
+	<link href="{% static 'css/font-awesome.min.css' %}" rel="stylesheet> 
+
+	<!-- Loading Drunken Parrot UI -->
+	<link href="{% static 'css/drunken-parrot.css' %}" rel="stylesheet">
+	<link href="{% static 'css/demo.css' %}" rel="stylesheet">
+    <link rel="stylesheet" href="{% static 'css/nav_bar.css' %}">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+	<!-- <link rel="shortcut icon" href="{% static 'images/favicon.ico'%}"> -->
+
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+	<!--[if lt IE 9]>
+		<script src="{%static 'js/html5shiv.js' %}"></script>
+	<![endif]-->
+</head>
+<body data-spy="scroll" data-target="#sidenav" data-offset="100" style="background-color:#e2f3f5;">
+
+	<div class="lowerclass" style = "text-align:center;color:white;"><b> <h2>AI ENABLED DATA QUALITY MANAGEMENT(AIDQM)</b><br>
+    <center><h4>A solution for data accuracy and completeness<h4></center></div><br>
+    
+    <center><div class="row">
+					<div  style ="border: 1px solid black;border-radius: 25px;margin: auto;width: 50%;padding-bottom:25px">
+	
+							<h3 style ="text-align:center; color:black;font-size:40px"><b>YOUR FILE IS UPLOADED!</b></h3><br>
+  
+                    <a href = {% url 'table'%}>
+                    <button type="button" class="btn btn-block btn-danger active" 
+                    style = "width:40%; background-color:#0e153a ">Tap to see your file</button></a><br>
+                    <a href = "{% url 'analyze'%}">
+                    <button type="button" class="btn btn-block btn-danger active" 
+                    style = "width:40%; background-color:#0e153a ">ANALYZE</button></a><br>
+                    </div></center>
+</body>

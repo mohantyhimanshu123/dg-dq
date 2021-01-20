@@ -1,0 +1,4 @@
+,Attributes,DataTypes,Count,Unique,Duplicates,Frequency,IsNull,IsNotNull,PercentageNull,Entire_Upper,Entire_Lower,WithSpaces,WithoutSpaces,Min Words,Max Words,Min Length,Max Length,Total Character count,Average Character count,Trailing White Space,Entire White Space,Percentage Entire White Space,Percentage Numeric,Percentage AlphaNumeric,SpecialCharacters
+0,cust_id,int64,99,99,0,0,0,99,0,0,0,0,99,1,1,4,4,396,4.0,0,0,0.0,100.0,100.0,0
+1,zip,int64,99,96,3,0,0,99,0,0,0,0,99,1,1,4,5,484,4.888888888888889,0,0,0.0,100.0,100.0,0
+2,email,object,99,99,0,0,0,99,0,0,99,0,99,1,1,13,32,2003,20.232323232323232,0,0,0.0,0.0,0.0,125

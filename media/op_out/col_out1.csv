@@ -1,0 +1,5 @@
+column,mean,median,mode,outlier
+Unnamed: 0,49.0,49,Nan,[]
+cust_id,1050.0,1050,Nan,[]
+cust_id.1,1050.0,1050,Nan,[]
+zip,50912.545454545456,48180,99501,[]

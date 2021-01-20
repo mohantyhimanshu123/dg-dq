@@ -1,0 +1,28 @@
+,cust_id,first_name,last_name,name,company_name,address_1,address_2,city,country,state,zip,phone1,phone2,email,web,scores,outliers
+0,1001,James,Butt,0.0,"Benton,        John ",6649 N Blue Gum St$$,0.0,New Orleans,Orleans,LA,70116.0,504-621-8927,504-845-1427,jbutt@gmail.com,http://www.bentonjohnbjr.com,-0.03664183338518945,-1
+1,1002,Josephine,Darakjy,0.0,"Chanay, Jeffrey A Esq         ",4 B Blue Ridge Blvd,0.0,Brighton,Livingston,MI,48116.0,810-292-9388,810-374-9840,josephine_darakjy@darakjy.org,http://www.chanayjeffreyaesq.com,-0.001442231286492901,-1
+2,1003,Art,Venere,0.0,"Chemel, James L Cpa",8 W Cerritos Ave #54,0.0,Bridgeport,Gloucester,NJ476,8014.0,856-636-8749,856-264-4130,art@venere.org,http://www.chemeljameslcpa.com,-0.013822078821458694,-1
+3,1004,Lenna,Paprocki,0.0,Feltz Printing Service,639 Main St$$,0.0,Anchorage,Anchorage,AK,99501.0,907-385-4412,907-921-2010,lpaprocki@hotmail.com,http://www.feltzprintingservice.com,-0.04240304862065358,-1
+6,1007,Mitsue,Tollner,0.0,,7 Eads St,0.0,Chicago,Cook,IL,60632.0,773-573-6914,773-924-8565,mitsue_tollner@yahoo.com,http://www.morlongassociates.com,-0.0031401480302648554,-1
+9,1010,Kris,Marrier,0.0,"King, Christopher A Esq      ",228 Runamuck Pl #2808,0.0,Baltimore,Baltimore City,MD,21224.0,410-655-8723,410-804-4694,kris@gmail.com,http://www.kingchristopheraesq.com,-0.006452354701253715,-1
+10,1011,Minna,Amigon,0.0,"Dorl, James J Esq",2371 Jerrold Ave,0.0,Kulpsville,Montgomery,PA,19443.0,215-874-1229,215-422-8694,minna_amigon@yahoo.com,http://www.dorljamesjesq.com,-0.0029238737577135243,-1
+11,1012,Abel,Maclead,0.0,Rangoni Of Florence,37275 St  Rt 17m M,0.0,Middle Island,Suffolk,NY,11953.0,631-335-3414,631-677-3675,amaclead@gmail.com,http://www.rangoniofflorence.com,-0.008321547230109916,-1
+12,1013,Kiley,Caldarera,0.0,,25 E 75th St #69,0.0,Los Angeles,Los Angeles,CA,90034.0,310-498-5651,310-254-3084,kiley.caldarera@aol.com,http://www.feinerbros.com,-0.004989036779664113,-1
+42,1043,Roxane,Campain,0.0,Rapid Trading Intl,1048 Main St,0.0,Fairbanks,Fairbanks North Star,AK,99708.0,907-231-4722,907-335-6568,roxane@hotmail.com,http://www.rapidtradingintl.com,-0.0056577909031122475,-1
+44,1045,Erick,Ferencz,0.0,Cindy Turner Associates,20 S Babcock St,0.0,Fairbanks,Fairbanks North Star,AK,99712.0,907-741-1044,907-227-6777,erick.ferencz@aol.com,http://www.cindyturnerassociates.com,-0.005494896182437259,-1
+46,1047,Jina,Briddick,0.0,Grace Pastries Inc,38938 Park Blvd$$,0.0,Boston,Suffolk,MA,2128.0,617-399-5124,617-997-5771,jina_briddick@briddick.com,http://www.gracepastriesinc.com,-0.014594459360903422,-1
+108,1109,Donte,Kines,0.0,W Tc Industries Inc,3 Aspen St,0.0,Worcester,Worcester,MA,1602.0,508-429-8576,508-843-1426,dkines@hotmail.com,http://www.wtcindustriesinc.com,-0.001344857097130947,-1
+386,1387,Gail,Kitty,0.0,Service Supply Co Inc,735 Crawford Dr,0.0,Anchorage,Anchorage47541,AK,99501.0,907-435-9166,907-770-3542,gail@kitty.com,http://www.servicesupplycoinc.com,-0.008294002596559547,-1
+393,1394,Laurel,Pagliuca,0.0,Printing Images Corp,36 Enterprise St Se,0.0,Richland,Benton,WA,99352.0,509-695-5199,509-595-6485,laurel@yahoo.com,http://www.printingimagescorp.com,-0.0027903162250705327,-1
+415,1416,Ettie,Hoopengardner,0.0,,39 Franklin Ave,0.0,Richland,Benton,WA,99352.0,509-755-5393,509-847-3352,ettie.hoopengardner@hotmail.com,http://www.jacksonmillworkco.com,-0.0010534235445633922,-1
+431,1432,Luisa,Jurney,0.0,Forest Fire Laboratory,25 Se 176th Pl,0.0,Cambridge,Middlesex,MA,2138.0,617-365-2134,617-544-2541,ljurney@hotmail.com,http://www.forestfirelaboratory.com,-0.004791396257455283,-1
+487,1488,Gail,Similton,0.0,"Johnson, Wes Esq",62 Monroe St,0.0,Thousand Palms,,CA,0.0,760-616-5388,760-493-9208,gail_similton@similton.com,http://www.johnsonwesesq.com,-0.0031690969049645856,-1
+490,1491,Carlee,Boulter,0.0,"Tippett, Troy M Ii",8284 Hart St,0.0,Abilene,Dickinson,KS,67410.0,785-347-1805,785-253-7049,carlee.boulter@hotmail.com,,-0.0023079610924416905,-1
+491,1492,Thaddeus,Ankeny,0.0,Atc Contracting,5 Washington St #1,0.0,Roseville,Placer,CA,95678.0,916-920-3571,916-459-2433,tankeny@ankeny.org,http://www.atccontracting.com,-0.00019988678460780562,-1
+497,1498,Flo,Bookamer,0.0,Simonton Howe & Schneider Pc,89992 E 15th St,0.0,Alliance,Box Butte,NE,69301.0,308-726-2182,308-250-6987,flo.bookamer@cox.net,http://www.simontonhoweschneiderpc.com,-0.007539308813758416,-1
+498,1499,Jani,Biddy,0.0,Warehouse Office & Paper Prod,61556 W 20th Ave,0.0,Seattle,King,WA,98104.0,206-711-6498,206-395-6284,jbiddy@yahoo.com,http://www.warehouseofficepaperprod.com,-0.026905753394898313,-1
+519,1520,Mee,Lapinski,0.0,Galloway Electric Co Inc,9 Pengwern St,0.0,Marldon,Devon,TQ3 1SA,0.0,01578-287816,01939-815208,mee.lapinski@yahoo.com,http://www.gallowayelectriccoinc.co.uk,-0.0014561091298026518,-1
+520,1521,Peter,Gutierres,0.0,Niagara Custombuilt Mfg Co,4410 Tarlton St,0.0,Prestatyn Community,Denbighshire,LL19 9EG,0.0,01842-767201,01859-648598,peter_gutierres@yahoo.com,http://www.niagaracustombuiltmfgco.co.uk,-0.01746152901304443,-1
+521,1522,Octavio,Salvadore,0.0,,6949 Bourne St,0.0,Lye and Stourbridge North Ward,West Midlands,DY5 2QP,0.0,01552-709248,01743-139456,octavio.salvadore@yahoo.com,http://www.practicalperiphrals.co.uk,-0.01797814749404425,-1
+522,1523,Martha,Teplica,0.0,"Curtin, Patricia M Esq",148 Rembrandt St,0.0,Warlingham,Surrey,CR6 9SW,0.0,01677-684257,01583-287367,mteplica@teplica.co.uk,http://www.curtinpatriciamesq.co.uk,-0.022763708828870133,-1
+523,1524,Tamesha,Veigel,0.0,"Wilhelm, James E Jr",2200 Nelson St #58,0.0,Newport,Isle of Wight,PO30 5AL,0.0,01217-342071,01280-786847,tveigel@veigel.co.uk,http://www.wilhelmjamesejr.co.uk,-0.028451502400596573,-1

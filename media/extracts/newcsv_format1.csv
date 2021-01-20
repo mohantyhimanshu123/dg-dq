@@ -1,0 +1,4 @@
+,Attributes,DataTypes,Count,Unique,Duplicates,Frequency,IsNull,IsNotNull,PercentageNull,Entire_Upper,Entire_Lower,WithSpaces,WithoutSpaces,Min Words,Max Words,Min Length,Max Length,Total Character count,Average Character count,Trailing White Space,Entire White Space,Percentage Entire White Space,Percentage Numeric,Percentage AlphaNumeric,SpecialCharacters
+0,cust_id,int64,99,99,0,0,0,99,0,0,0,0,99,1,1,4,4,396,4.0,0,0,0.0,100.0,100.0,0
+1,address_1,object,99,99,0,0,0,99,0,0,0,99,0,3,6,9,26,1595,16.11111111111111,0,0,0.0,0.0,0.0,33
+2,phone1,object,99,99,0,0,0,99,0,0,0,0,99,1,1,10,12,1182,11.93939393939394,0,0,0.0,0.0,0.0,198

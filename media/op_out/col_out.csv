@@ -1,0 +1,5 @@
+column,mean,median,mode,outlier
+cust_id,1262.5,1262.5,Nan,[]
+name,0.0,0.0,0.0,[0.0]
+address_2,0.0,0.0,0.0,[0.0]
+zip,45128.908396946565,39418.5,0.0,[]
